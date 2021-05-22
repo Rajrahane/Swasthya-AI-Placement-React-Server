@@ -1,0 +1,8 @@
+.blog-details{
+    background: #0d5cdb;
+    padding:30px;
+    overflow:auto;
+    box-shadow: -2px -3px 5px rgba(0,0,0,0.3);
+    box-sizing: border-box;
+    color:#fff;
+  }
