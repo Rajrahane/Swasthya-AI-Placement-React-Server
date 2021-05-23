@@ -16,7 +16,7 @@ Consists of :
 </ol><br>
     
 Steps to install and run:
-1. git clone repo.git
+1. git clone `https://github.com/Rajrahane/Swasthya-AI-Placement-React-Server.git`
 2. run npm install
 3. make sure the graphql endpoint is set correctly in /src/index.js
 4. run npm start
