@@ -28,3 +28,6 @@ Steps to install and run:
       <li>Uses <a href="https://reactrouter.com/web/guides/quick-start">React Router</a> for creating Routes Hierarchy</li>
       <li>Uses <a href="https://react-bootstrap.github.io/">React Bootstrap</a> for Bootstrapping </li>
     </ul>
+    <b>Outputs</b>
+    <img src="output/UserSearch.JPG">
+    <img src="output/BlogProfile.JPG">
